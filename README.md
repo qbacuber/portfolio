@@ -4,7 +4,7 @@
     🔥  Mam 19 lat i interesuje sie ogólnopojętnym Fron-End'em <br> 
     ✨ Technologie: React, JS, HTML, CSS, NODE <br> 
     📫 kontakt.pasciak@gmail.com <br> 
-    🎨 Portfolio: https://qbacuber.github.io/qbacuber/ <br> 
+    🎨 Portfolio: https://qbacuber.github.io/portfolio/ <br> 
     💼 LinkedIn: www.linkedin.com/in/jakub-paściak <br> 
   </samp>
 </p>
