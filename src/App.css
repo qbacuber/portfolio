@@ -13,6 +13,33 @@
 }
 
 #photo{
-  top: 20px;
-  left: 20px;
+  top: 52px;
+  left: 225px;
+}
+
+#WhatICan{
+  top: 288px;
+  left: 825px;
+}
+
+#MyWorks{
+  top: 533px;
+  left: 422px;
+}
+
+#MyPlans{
+  left: 1482px;
+  top: 203px;
+  transition: left top down right 0.2s;
+}
+
+#Contant{
+  left: 1296px;
+  top: 821px;
+}
+
+#AboutMe{
+  top: 159px;
+  left: 1190px;
+
 }

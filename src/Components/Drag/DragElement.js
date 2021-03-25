@@ -42,6 +42,7 @@ export default function DragElement(props) {
       onMouseDown={dragStart}
       onMouseMove={draggingd}
       onMouseUp={dragEnd}
+      onPointerLeave={dragEnd}
       style={styles}
       id={props.id}
       >
