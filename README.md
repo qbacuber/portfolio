@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
-    Cześć! Jestem Jakub 👋 <br> 
-    🔥  Mam 19 lat i interesuje sie ogólnopojętnym Fron-End'em <br> 
-    ✨ Technologie: React, JS, HTML, CSS, NODE <br> 
+    Hi! I'm Jakub 👋 <br> 
+    🔥  I'm 20 and I'm interested in Fron-End <br> 
+    ✨ Technologies: React, JS, TS, HTML, CSS, NODE, BOOTSTRAP, MATERIAL UI <br> 
     📫 kontakt.pasciak@gmail.com <br> 
     🎨 Portfolio: https://qbacuber.github.io/portfolio/ <br> 
     💼 LinkedIn: www.linkedin.com/in/jakub-paściak <br> 
