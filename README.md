@@ -13,9 +13,9 @@
 
 - 📕   redux | react-query | react-table | formik | yup | express
 
-- 🔧   VScode | GitHub/Lab | PostMan 
+- 🔧   VScode | GitHub/Lab | PostMan | Jira | Trello
 
-- 🖥   AdobeXD | Figma| Photoshop 
+- 🖥   AdobeXD | Figma | Photoshop 
 
 - 🛢   MongoDB | gRPC | MySQL 
 
