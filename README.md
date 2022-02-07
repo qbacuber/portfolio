@@ -13,6 +13,8 @@
 
 - 📕   redux | react-query | react-table | formik | yup | express
 
+- 🧪   JEST | cypress
+
 - 🔧   VScode | GitHub/Lab | PostMan | Jira | Trello
 
 - 🖥   AdobeXD | Figma | Photoshop 
