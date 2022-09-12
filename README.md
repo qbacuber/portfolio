@@ -1,6 +1,6 @@
 ## Hi there, I'm Jakub  👋
 
-- 🔭 I'm 20 and I'm interested in Fron-End!
+- 🔭 I'm 21 and I'm interested in Fron-End!
 - 🌱 Currently working and learning new technologies
 - 🥅 2022 Goals: Complete your application 
 - ⚡ Fun fact: I'm a fan of Marvel movies and Rubik's cube
